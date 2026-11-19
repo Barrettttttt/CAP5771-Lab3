@@ -1,4 +1,8 @@
 pandas
 matplotlib
 ipywidgets
+<<<<<<< HEAD
 voila
+=======
+voila
+>>>>>>> cdd879cf79e1fd9e8db8aaea968f2f77d8b7a955
