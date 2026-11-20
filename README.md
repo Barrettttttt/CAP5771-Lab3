@@ -28,6 +28,6 @@ https://hub.docker.com/r/jhall3063/lab-3
 # Docker Demonstration
 Run
 ```bash
-docker pull jhall3063/lab-3:latest
-docker run -d jhall3063/lab-3:latest 
+docker pull jhall3063/lab-3:v1.0
+docker run -d jhall3063/lab-3:v1.0
 ```
